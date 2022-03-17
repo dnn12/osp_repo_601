@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 (local) 1st modified
 (remote) 2st modified
+=======
+(local) 1st modified_2
+(remote) 2st modified_2
+>>>>>>> branch_2
