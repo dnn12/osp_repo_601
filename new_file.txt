@@ -1,1 +1,2 @@
 (local) 1st modified_2
+(remote) 2st modified_2
